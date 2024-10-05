@@ -1,0 +1,22 @@
+module main_decoder(
+input [3:0] op,
+input [3:0] func3,
+output [1:0] ResultSrc,
+output MemWrite, Branch, RegWrite, Zero, Jump,
+output reg Take_Branch,
+output ImmSrc,
+output reg L,
+output [2:0] alu_ctrl
+);
+
+// RegWrite_ImmSrc_MemWrite_ResultSrc_Branch_Jump_L_aluCtrl
+
+reg [10:0] controls;
+
+always@(*)
+begin
+	case(op)
+	4'0000: controls = {{9'b1_0_0_00_0_0_0}, alu_ctrl};
+	endcase
+end
+endmodule

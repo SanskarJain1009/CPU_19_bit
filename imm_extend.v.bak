@@ -1,0 +1,14 @@
+//imm_extend.v - Logic for Immediate Extension
+
+module imm_extend(
+	input [18:8] instr,
+	input [1:0] immsrc,
+	output reg [15:0] immext
+);
+always@(*)
+begin
+	case(immsrc)
+	default immext=16'bx;
+	endcase
+	end
+endmodule

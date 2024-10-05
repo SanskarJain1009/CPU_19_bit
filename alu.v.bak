@@ -1,0 +1,17 @@
+//alu.v - ALU Module
+
+module alu(
+	input [15:0] a, b,				//Operands
+	input [2:0] alu_ctrl,			//ALU Control
+	output reg [15:0] alu_out,		//ALU output
+	output zero							//Zero flag
+	);
+	
+always@(a, b, alu_ctrl) begin
+	case(alu_ctrl)
+	default: alu_out =0;
+	endcase
+end
+
+assign zero = (alu_out==0) ? 1'b1 : 1'b0;
+endmodule

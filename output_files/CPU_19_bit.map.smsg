@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at datapath.v(15): object "ImmExt" differs only in case from object "immExt" in the same scope File: C:/Users/asus/Desktop/CPU_19_Bit/datapath.v Line: 15
+Warning (10268): Verilog HDL information at alu.v(11): always construct contains both blocking and non-blocking assignments File: C:/Users/asus/Desktop/CPU_19_Bit/alu.v Line: 11

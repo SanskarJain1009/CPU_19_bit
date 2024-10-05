@@ -1,0 +1,397 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[8]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[9]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[10]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[11]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[12]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[13]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[14]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[15]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[16]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[17]",
+					"strict" : false
+				},
+				{
+					"name" : "PC[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrAddr[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_WrData[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[14]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[18]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[16]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[17]",
+					"strict" : false
+				},
+				{
+					"name" : "ReadData[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Instr[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
